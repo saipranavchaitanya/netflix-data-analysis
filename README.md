@@ -2,7 +2,6 @@
 Netflix Data Analysis using Python and Power BI
 # Netflix Data Analysis
 
-# Netflix Data Analysis
 
 ## Project Overview
 
