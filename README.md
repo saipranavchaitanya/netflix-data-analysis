@@ -165,8 +165,3 @@ The project highlights practical skills required for a data analyst role, includ
 
 ---
 
-## Author
-
-Your Name
-
-Data Analyst | Python | SQL | Power BI
